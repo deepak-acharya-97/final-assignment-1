@@ -387,9 +387,8 @@ a {
 }
 .navbar {
     position: sticky;
-    color: pink;
     top: 0px;
-    display: inline-block;
+    background-color: aquamarine;
 }
 nav img {
     display: inline-block;
