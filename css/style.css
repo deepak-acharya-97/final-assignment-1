@@ -429,32 +429,12 @@ nav img {
   padding-right: 900px;
   margin-top: 20px;
 } /* img tag ends */
-/* naming id starts */
-#naming {
-  background-color: violet;
-  padding: 30px;
-} /* naming id ends */
-/* backg id starts */
-#backg {
-  background-color: hotpink;
-} /* backg id ends */
-/* blockquote tag starts */
-article blockquote {
-  font-style: italic;
-  font-size: 17px;
-} /* bloackquote tag ends */
 /* comeincenter id starts */
 #comecenter {
   text-align: center;
 } /* comeincenter id ends */
-/* mission id starts */
-#mission {
-  height: 100px;
-  width: 48%;
-  background-color: green;
-} /* mission id ends */
 /* just id starts*/
-#just {
+#justifytext {
   text-align: justify;
 } /* just id ends */
 /* footer tag starts */
