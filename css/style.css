@@ -466,10 +466,12 @@ footer {
 .color {
   color: aliceblue;
 }/* color class ends */
+/* label alignment start */
 label {
   display: inline-block;
   width: 200px;
-}
+} /* label alignment ends */
+/* alignright id starts*/
 #alignright {
   margin-left: 120px;
-}
+} /* alignright id ends*/
