@@ -464,5 +464,12 @@ footer {
 } /* footer tag starts */
 /* color class starts */
 .color {
-  color: bisque;
+  color: aliceblue;
 }/* color class ends */
+label {
+  display: inline-block;
+  width: 200px;
+}
+#alignright {
+  margin-left: 120px;
+}
