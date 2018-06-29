@@ -374,9 +374,6 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: bisque;
 }
-li {
-  text-align: justify;
-}
 a {
     text-decoration: none;
     padding-right: 20px;
@@ -389,6 +386,9 @@ a {
     position: sticky;
     top: 0px;
     background-color: aquamarine;
+}
+li {
+  text-align: justify;
 }
 nav img {
     display: inline-block;
@@ -487,6 +487,6 @@ footer {
     margin-top: 30px;
     margin-left: 70%;
 }
-table {
-    margin-left: 40%;
+.color {
+  color: bisque;
 }
