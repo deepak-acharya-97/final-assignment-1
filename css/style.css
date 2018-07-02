@@ -437,11 +437,6 @@ nav img {
 #justifytext {
   text-align: justify;
 } /* just id ends */
-/* footer tag starts */
-footer {
-  margin-top: 30px;
-  margin-left: 70%;
-} /* footer tag starts */
 /* color class starts */
 .color {
   color: aliceblue;
@@ -455,3 +450,48 @@ label {
 #alignright {
   margin-left: 120px;
 } /* alignright id ends*/
+
+.separator {
+  margin-top: 20px;
+}
+
+#bg-image1 {
+  background-image: url("../img/vm.jpg");
+  height: 500px;
+  width: 100%;
+  background-size: 100% 100%;
+}
+#left-part-text {
+  margin-left: 40px;
+  margin-top: 50px;
+  text-align: center;
+}
+#middle-part-text {
+  margin-left: 45%;
+  margin-top: 0px;
+}
+#right-part-text {
+  margin-left: 240px;
+  margin-top: 290px;
+}
+.add-shadow {
+  font-size: 40px;
+  color: indianred;
+  text-shadow: 2px 2px #ff0000;
+}
+.bg-image2 {
+  background-image: url('../img/visionhdr.jpg');
+  background-size: 100% 100%;
+}
+.top-pad {
+  padding-top: 10px;
+}
+.bg-image3 {
+  background-image: url('../img/gradu.jpg');
+  background-size: 100% 100%;
+  color: white;
+}
+#nostyle {
+  list-style-type: none;
+  text-transform: lowercase;
+}
