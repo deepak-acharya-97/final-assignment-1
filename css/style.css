@@ -397,6 +397,9 @@ body {
 }
 /* body css starts */
 body {
+  margin: 0;
+  padding: 0;
+  border: 0;
   font-family: 'Playfair Display','Spirax','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: aliceblue;/* bisque; */
 } /* body css ends */
@@ -452,7 +455,7 @@ label {
 } /* alignright id ends*/
 
 .separator {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 #bg-image1 {
@@ -476,8 +479,7 @@ label {
 }
 .add-shadow {
   font-size: 40px;
-  color: indianred;
-  text-shadow: 2px 2px #ff0000;
+  color: darkgoldenrod;
 }
 .bg-image2 {
   background-image: url('../img/visionhdr.jpg');
@@ -494,4 +496,15 @@ label {
 #nostyle {
   list-style-type: none;
   text-transform: lowercase;
+}
+footer {
+  background-color: gold;
+}
+.bg-image4 {
+  background-image: url('../img/guidelines.jpg');
+  background-size: 100% 100%;
+}
+.bg-image5 {
+  background-image: url('../img/application-form.jpg');
+  background-size: 100% 100%;
 }
